@@ -15,10 +15,6 @@ Hi, I'm Tee — I'm a 3rd-year computer engineering studnet at King's Mongkut Un
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
 </a>
 
-<a href="https://teerutt.github.io/teerutt/resume.pdf">
-  <img src="https://img.shields.io/badge/resume-326ce5?style=for-the-badge&logoColor=white" alt="" />
-</a>
-
 # 🚀 Github stat
 <div style="display: flex;">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=teerutt" alt="" />
