@@ -2,7 +2,7 @@
 
 # 🧑🏻 Teerut Phonwijit — @teerutt
 
-Hi, I'm Tee — I'm a 3rd-year computer engineering student at King's Mongkut University of Technology Thonburi. I'm passionated in software development and UI/UX design. 
+Hi, I'm Tee — I'm a 4th-year computer engineering student at King's Mongkut University of Technology Thonburi. I'm passionated in software development and UI/UX design. 
 
 ## 💬 Talking about Personal Experiences
 - 👍 **Experienced with:** Web & App Development
