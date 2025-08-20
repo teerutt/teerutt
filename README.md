@@ -17,6 +17,6 @@ Hi, I'm Tee — I'm a 4th-year computer engineering student at King Mongkut's Un
 
 # 🚀 Github stat
 <div style="display: flex;">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=teerutt" alt="" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teerutt&layout=compact" alt="" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=teerutt&show_icons=true&theme=transparent" alt="" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teerutt&langs_count=20" alt="" />
 </div>
