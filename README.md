@@ -14,9 +14,3 @@ Hi, I'm Tee — I'm a 4th-year computer engineering student at King Mongkut's Un
 <a href="https://www.linkedin.com/in/teerutt/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
 </a>
-
-# 🚀 Github stat
-<div style="display: flex;">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=teerutt&show_icons=true&theme=transparent" alt="" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teerutt&layout=compact" alt="" />
-</div>
